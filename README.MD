@@ -11,7 +11,7 @@ This application processes user queries related to company performance metrics a
 Clone the repository to your local machine by running the following command:
 
 ```bash
-git clone https://github.com/dhakad22klx/LLM-Project
+git clone https://github.com/dhakad22klx/LLM-Project.git
 ```
 
 ### 2. Navigate to the Application Folder
